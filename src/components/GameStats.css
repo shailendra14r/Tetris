@@ -1,0 +1,21 @@
+.gamestats{
+    width: 20vw;
+    position: relative;
+    padding: 0px 10px;
+}
+.preview{
+    position: absolute;
+    top: 10vh;
+}
+.score{
+    text-align: left;
+    position: absolute;
+    list-style: none;
+    bottom: 2vh;
+    color: rgba(255, 255, 255, 0.6);
+}
+.value{
+    font-size: 2em;
+    padding: 0px 5px;
+    color: rgba(255, 255, 255, 0.9);
+}
