@@ -1,0 +1,17 @@
+.game{
+  min-height: 100vh;
+  width: 100vw;
+  background-color: #7469B6;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* tetris ki height same hogayi board ke because of display flex */
+.tetris{
+  display: flex;
+  flex-direction: row;
+}
